@@ -1,0 +1,2 @@
+# lovly-room
+resource
